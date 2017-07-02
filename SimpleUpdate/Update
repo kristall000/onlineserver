@@ -1,2 +1,6 @@
 [Update]
 lastversion=1.0
+[modlist]
+Count=2
+mod1=xray-33.jar
+mod2=appleskin-mc1.10.2-1.0.7.jar
