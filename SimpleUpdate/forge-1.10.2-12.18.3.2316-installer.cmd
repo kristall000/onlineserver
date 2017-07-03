@@ -29,6 +29,6 @@ title Установка Forge (Не закрывай меня до конца установки!)
 	if %errorlevel% == 0 (msg * Кэш успешно очищен!) else (msg * Обнаружены ошибки! Возможно Forge не установлен или не удалось очистить кэш.)
 	exit
 ) Else (
-	del /q /f "versions\1.10.2-forge1.10.2-12.18.3.2316"
+	rmdir  /s /q "versions\1.10.2-forge1.10.2-12.18.3.2316"
 	goto start
 )
