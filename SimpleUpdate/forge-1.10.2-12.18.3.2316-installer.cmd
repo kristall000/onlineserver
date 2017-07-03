@@ -11,7 +11,9 @@ title Установка Forge (Не закрывай меня до конца установки!)
 	echo %CD%
 	:err
 	if Exist forge-1.10.2-12.18.3.2316-installer.jar (call forge-1.10.2-12.18.3.2316-installer.jar) else (
-		msg * Непредвиденная ошибка! Установщик Forge не найден!! ПОЧЕМУ?
+		echo .
+		echo Непредвиденная ошибка! Установщик Forge не найден!! ПОЧЕМУ?
+		pause
 		del /q /f forge-1.10.2-12.18.3.2316-installer.cmd
 		exit
 	)
@@ -23,10 +25,12 @@ title Установка Forge (Не закрывай меня до конца установки!)
 		color 4F
 		goto err
 	)
-	msg * Успешная установка Forge. Для запуска игры выберите в TLauncher версию 1.10.2-forge1.10.2-12.18.3.2316
+	echo .
+	echo Успешная установка Forge. Для запуска игры выберите в TLauncher версию 1.10.2-forge1.10.2-12.18.3.2316
 	del /q /f forge-1.10.2-12.18.3.2316-installer.jar
 	del /q /f forge-1.10.2-12.18.3.2316-installer.cmd
-	if %errorlevel% == 0 (msg * Кэш успешно очищен!) else (msg * Обнаружены ошибки! Возможно Forge не установлен или не удалось очистить кэш.)
+	if %errorlevel% == 0 (echo  Кэш успешно очищен!) else (echo  Обнаружены ошибки! Возможно Forge не установлен или не удалось очистить кэш.)
+	pause
 	exit
 ) Else (
 	rmdir  /s /q "versions\1.10.2-forge1.10.2-12.18.3.2316"
