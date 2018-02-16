@@ -2,8 +2,8 @@
 lastversion=1.2
 [modlist]
 Count=9
-mod1=AmbientSounds v2.0.8 mc1.10.2.jar
-mod1size=54129
+mod1=Zombie-Awareness-Mod-1.10.2.jar
+mod1size=275
 mod2=Blur-1.0.1-9.jar
 mod2size=16
 mod3=CoroUtil-1.10.2.jar
@@ -18,5 +18,3 @@ mod7=Simple-Harvest-1.10.2.jar
 mod7size=4
 mod8=Sound-Filters-Mod-1.10.2.jar
 mod8size=41
-mod9=Zombie-Awareness-Mod-1.10.2.jar
-mod9size=275
