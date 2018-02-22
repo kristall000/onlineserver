@@ -1,7 +1,7 @@
 [Update]
 lastversion=1.2.6
 [modlist]
-Count=43
+Count=42
 mod1=AppleCore-mc1.12.2-3.1.1.jar
 mod1size=79
 mod2=AppleSkin-mc1.12-1.0.9.jar
@@ -68,8 +68,8 @@ mod32=Sit-1.12.x-v1.1.jar
 mod32size=6
 mod33=SoundFilters-0.10_for_1.12.jar
 mod33size=41
-mod34=SpiceOfLife-mc1.12-1.3.11.jar
-mod34size=201
+mod34=ZombieAwareness-1.12.1-1.11.11.jar
+mod34size=
 mod35=TANCampfireSpit-1.12.2-1.0.jar
 mod35size=27
 mod36=ThutCore-1.12.2-5.16.1.jar
@@ -86,9 +86,8 @@ mod41=Waypoints-1.12-1.2.4.jar
 mod41size=130
 mod42=WhatsThatSlot-1.1.0.jar
 mod42size=15
-mod43=ZombieAwareness-1.12.1-1.11.11.jar
-mod43size=274
 [dellist]
-Count=2
+Count=3
 mod1=IndustrialCraft-2-2.8.54-ex112.jar
 mod2=ElementalCreepers2-1.4.jar
+mod3=SpiceOfLife-mc1.12-1.3.11.jar
