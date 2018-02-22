@@ -1,7 +1,7 @@
 [Update]
 lastversion=1.2.6
 [modlist]
-Count=42
+Count=43
 mod1=AppleCore-mc1.12.2-3.1.1.jar
 mod1size=79
 mod2=AppleSkin-mc1.12-1.0.9.jar
@@ -86,6 +86,8 @@ mod41=Waypoints-1.12-1.2.4.jar
 mod41size=130
 mod42=WhatsThatSlot-1.1.0.jar
 mod42size=15
+mod43=CustomMobSpawner-3.11.3.jar
+mod43size=706
 [dellist]
 Count=3
 mod1=IndustrialCraft-2-2.8.54-ex112.jar
