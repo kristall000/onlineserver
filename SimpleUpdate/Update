@@ -91,5 +91,6 @@ mod43size=274
 mod44=KJLib-1.0.1.jar
 mod44size=38
 [dellist]
-Count=1
+Count=2
 mod1=IndustrialCraft-2-2.8.54-ex112.jar
+mod2=ElementalCreepers2-1.4.jar
