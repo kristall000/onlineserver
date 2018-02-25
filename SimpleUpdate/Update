@@ -1,7 +1,7 @@
 [Update]
 lastversion=1.2.7
 [modlist]
-Count=45
+Count=47
 mod1=AppleCore-mc1.12.2-3.1.1.jar
 mod1size=79
 mod2=AppleSkin-mc1.12-1.0.9.jar
@@ -92,6 +92,10 @@ mod44=IronChest-1.12.2-7.0.40.824.jar
 mod44size=1077
 mod45=GrapplingHookMod-1.12-v10.jar
 mod45size=120
+mod46=TheWeirdingGadget-1.12.2-2.0.5-universal.jar
+mod46size=173
+mod47=IronTanks-2.1.0-beta.5.jar
+mod47size=69
 [dellist]
 Count=3
 mod1=IndustrialCraft-2-2.8.54-ex112.jar
