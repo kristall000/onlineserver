@@ -1,7 +1,7 @@
 [Update]
 lastversion=1.2.7
 [modlist]
-Count=47
+Count=49
 mod1=AppleCore-mc1.12.2-3.1.1.jar
 mod1size=79
 mod2=AppleSkin-mc1.12-1.0.9.jar
@@ -96,6 +96,10 @@ mod46=TheWeirdingGadget-1.12.2-2.0.5-universal.jar
 mod46size=173
 mod47=IronTanks-2.1.0-beta.5.jar
 mod47size=69
+mod48=MalisisSwitches-1.12.2-5.1.0.jar
+mod48size=94
+mod49=MalisisBlocks-1.12.2-6.1.0.jar
+mod49size=153
 [dellist]
 Count=3
 mod1=IndustrialCraft-2-2.8.54-ex112.jar
