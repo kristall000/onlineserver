@@ -1,7 +1,7 @@
 [Update]
 lastversion=1.2.7
 [modlist]
-Count=52
+Count=53
 mod1=AppleCore-mc1.12.2-3.1.1.jar
 mod1size=79
 mod2=AppleSkin-mc1.12-1.0.9.jar
@@ -106,8 +106,8 @@ mod51=EnderTanks-1.12.0-1.6.4.jar
 mod51size=243
 mod52=IronBackpacks-1.12.2-3.0.5-6.jar
 mod52size=451
-mod53=
-mod53size=
+mod53=ShetiPhianCore-1.12.0-3.5.6.jar
+mod53size=387
 mod54=
 mod54size=
 mod55=
